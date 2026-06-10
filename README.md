@@ -59,3 +59,18 @@ The HTML version includes a **Living Repository Map** that fetches all [elevate-
 ## License
 
 © 2026 Ryan Barrett. All rights reserved.
+
+<!-- ELEVATE:BEGIN (auto-generated section; edits here are overwritten) -->
+## About
+
+| | |
+| --- | --- |
+| **Description** | The Data Moat Thesis — Why Compounding Data Is the Most Defensible Asset Class, and Why It Follows the Physics of Black Holes |
+| **Language** | HTML |
+| **Commits** | 1 |
+| **Created** | 2026-05-02 |
+| **Last push** | 2026-05-02 |
+| **Site** | https://elevate-foundry.github.io/data-moat-thesis/ |
+
+Part of [**elevate-foundry**](https://github.com/elevate-foundry) · [repository](https://github.com/elevate-foundry/data-moat-thesis)
+<!-- ELEVATE:END -->
